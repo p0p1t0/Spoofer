@@ -4,13 +4,13 @@
 
 Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
-## How to use ❔
+## How does it work? ❔
 
 [YOUTUBE VIDEO LINK]
 
  ## Buy a pincode 🔑
  
-Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* programs. Pincodes contain a credit and this credit is spent with uses. The minimum purchase of a pincode is €10 and for each email or SMS sent you will spend €0.50 of the pincode credit.
+Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* programs. Pincodes contain a credit and this credit is spent with uses. The minimum purchase of a pincode is $10 and for each email or SMS sent you will spend $0.50 of the pincode credit.
 
 Currently accepted payment methods: **Paypal**, **Bitcoin** and **Monero**.
 
