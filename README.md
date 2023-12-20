@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=SqCSWIb1N3g
 
  ## Buy a pincode 🔑
  
-Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* tools. Pincodes contain a credit and this credit is spent with uses. The **minimum purchase of a pincode is $30** and for each email or SMS sent you will spend $0.50 of that pincode credit.
+Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* tools. Pincodes contain a credit and this credit is spent with uses. The **minimum purchase of a pincode is $20** and for each email or SMS sent you will spend $0.50 of that pincode credit.
 
 Currently accepted payment methods: **Paypal** and **Bitcoin**.
 
