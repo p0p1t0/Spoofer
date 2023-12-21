@@ -9,7 +9,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
 ## How does it work ❔
 
-[Demo video]([https://youtu.be/HEkgGpj6yew]
+[Demo video]([https://youtu.be/HEkgGpj6yew])
 
  ## Buy a pincode 🔑
  
