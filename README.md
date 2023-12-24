@@ -4,7 +4,7 @@
 
 Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
-[Download](https://p0p1t0.com/downloads/Spoofer.rar)
+[Download](https://p0p1t0.com/downloads/Spoofer.rar) version 1.2
 
 
 ## How does it work ❔
