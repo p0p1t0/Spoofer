@@ -6,7 +6,6 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
 [Download](https://p0p1t0.com/downloads/Spoofer.rar) (Lastest version 1.5)
 
-
 ## How does it work ❔
 
 [Demo video](https://www.youtube.com/watch?v=HEkgGpj6yew)
