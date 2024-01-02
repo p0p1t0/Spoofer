@@ -15,7 +15,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
  
 Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* tools. Pincodes contain a credit and this credit is spent with uses. The **minimum purchase of a pincode is $30** and for each email or SMS sent you will spend $0.50 of that pincode credit which would be equivalent to 60 email or SMS sendings.
 
-Currently accepted payment methods: **Paypal** and **Bitcoin**.
+Currently accepted payment methods: **Bitcoin**.
 
 Contact here: **contact@p0p1t0.com**
 
