@@ -22,7 +22,9 @@ Email: **contact@p0p1t0.com**
 
 Telegram: **https://t.me/p0p1t0telegram**
 
-*Note: Keep in mind that if you send me the exact amount of €30 in BTC, I will not receive exactly €30 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, €25 in BTC, I will give you 25 sendings.*
+*Note: Keep in mind that if you send me the exact amount of €30 in BTC, I will not receive exactly €30 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, €25 in BTC, I will give you 25 sendings*.
+
+*Note 2: If you make a purchase over €100, the use of each sending will cost you €0.50, so you will get 200 email or SMS sendings*.
 
 # DISCLAIMER 📜
 
