@@ -16,7 +16,7 @@ Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* t
 
 Currently accepted payment methods: **Bitcoin**.
 
-Contact here: **contact@p0p1t0.com**
+Contact me from: **contact@p0p1t0.com** or **https://t.me/p0p1t0telegram**
 
 # DISCLAIMER 📜
 
