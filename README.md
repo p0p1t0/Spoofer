@@ -12,7 +12,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
  ## Buy a pincode 🔑
  
-Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* tools. Pincodes contain a credit and this credit is spent with uses. The **minimum purchase of a pincode is €30** and for each email or SMS sent you will spend €1 of that pincode credit, which would be equivalent to 30 email or SMS sendings. If you make a purchase over €100, the use of each sendings will not cost you €1, it will cost you €0.50, so you will get 200 email or SMS sendings.
+Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* tools. Pincodes contain a credit and this credit is spent with uses. The **minimum purchase of a pincode is €30** and for each email or SMS sent you will spend €1 of that pincode credit, which would be equivalent to 30 email or SMS sendings. If you make a purchase over €100, the use of each sendings will not cost you €1, it will cost you €0.50, so you will get 200 email or SMS sendings. If you make a purcharse over €500, the use of each sending will not cost you €0.50, it will cost you €0.25, so you will get 2000 emails or SMS sendings. If you make a purcharse over €1000, the use of each sending will not cost you €0.25, it will cost you €0.10, so you will get 10000 sendings.
 
 Currently accepted payment methods: **Bitcoin**.
 
