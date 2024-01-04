@@ -8,7 +8,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
 ## How does it work ❔
 
-[Demo video](https://www.youtube.com/watch?v=4NfffyDWQIQ)
+[Demo video](https://www.youtube.com/watch?v=RKyzv9RwLi0)
 
  ## Buy a pincode 🔑
  
