@@ -14,13 +14,13 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
  
 Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* tools. Pincodes contain a credit and this credit is spent with uses. The **minimum purchase of a pincode is $40** and for each email or SMS sent you will spend $0.50 of that pincode credit which would be equivalent to 80 email or SMS sendings.
 
-*Note: Keep in mind that if you send me the exact amount of $40 in BTC, I will not receive exactly $40 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, $35 in BTC, I will give you 70 sendings.*
-
 Currently accepted payment methods: **Bitcoin**.
 
 Email: **contact@p0p1t0.com**
 
 Telegram: **https://t.me/p0p1t0telegram**
+
+*Note: Keep in mind that if you send me the exact amount of $40 in BTC, I will not receive exactly $40 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, $35 in BTC, I will give you 70 sendings.*
 
 # DISCLAIMER 📜
 
