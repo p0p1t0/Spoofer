@@ -20,7 +20,7 @@ Email: **contact@p0p1t0.com**
 
 Telegram: **https://t.me/p0p1t0telegram**
 
-*Note: Keep in mind that if you send me the exact amount of €40 in BTC, I will not receive exactly $40 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, €35 in BTC, I will give you 35 sendings.*
+*Note: Keep in mind that if you send me the exact amount of €40 in BTC, I will not receive exactly €40 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, €35 in BTC, I will give you 35 sendings.*
 
 # DISCLAIMER 📜
 
