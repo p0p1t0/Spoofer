@@ -16,10 +16,6 @@ Pincodes are codes that allow you to use the *Email Spoofer* and *SMS Spoofer* t
 
 **If you make a purchase over €100**, the use of each sending **will cost you €0.50**, so you will get 200 email or SMS sendings.
 
-**If you make a purchase over €500**, the use of each sending **will cost you €0.25**, so you will get 2000 email or SMS sendings. 
-
-**If you make a purchase over €1000**, the use of each sending **will cost you €0.10**, so you will get 10000 email or SMS sendings.
-
 Currently accepted payment methods: **Bitcoin**.
 
 Email: **contact@p0p1t0.com**
