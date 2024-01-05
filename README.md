@@ -20,9 +20,10 @@ Email: **contact@p0p1t0.com**
 
 Telegram: **https://t.me/p0p1t0telegram**
 
-*Note: Keep in mind that if you send me the exact amount of €30 in BTC, I will not receive exactly €30 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, €25 in BTC, I will give you 25 sendings*.
+*Note: Prices are not negotiable, this application is not an email or SMS sender, it is a spoofing multi-tool for social engineering attacks. If you want to send simple emails or SMS find your platform for that elsewhere*.
 
-*Note 2: Prices are not negotiable, this application is not an email or SMS sender, it is a spoofing multi-tool for social engineering attacks. If you want to send simple emails or SMS find your platform for that elsewhere*.
+*Note 2: Keep in mind that if you send me the exact amount of €30 in BTC, I will not receive exactly €30 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, €25 in BTC, I will give you 25 sendings*.
+
 
 # DISCLAIMER 📜
 
