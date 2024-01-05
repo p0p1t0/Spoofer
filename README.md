@@ -8,9 +8,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
 ## What can Spoofer do? 💣
 
-[Demo video link 1](https://www.youtube.com/watch?v=4NfffyDWQIQ)
-
-[Demo video link 2](https://www.bitchute.com/video/U10G1hkW6yd6/)
+[Demo video](https://www.youtube.com/watch?v=4NfffyDWQIQ)
 
  ## Buy a pincode 🔑
  
