@@ -22,6 +22,8 @@ Telegram: **https://t.me/p0p1t0telegram**
 
 *Note: Keep in mind that if you send me the exact amount of €30 in BTC, I will not receive exactly €30 due to transaction fees, therefore I will give you the amount that I receive. If I receive, for example, €25 in BTC, I will give you 25 sendings*.
 
+*Note 2: Prices are not negotiable, this application is not an email or SMS sender, it is a spoofing multi-tool for social engineering attacks. If you want to send simple emails or SMS find your platform for that elsewhere*.
+
 # DISCLAIMER 📜
 
  **BY DOWNLOADING AND USING THE APPLICATION "SPOOFER" YOU AGREE TO THE FOLLOWING: THIS APPLICATION HAS BEEN DEVELOPED FOR EDUCATIONAL PURPOSES AND TO CONDUCT SECURITY AUDITS IN AN ETHICAL AND RESPONSIBLE MANNER TO BE USED SOLELY AND EXCLUSIVELY IN CONTROLLED ENVIRONMENTS AND WITH THE EXPRESS AUTHORIZATION OF ALL PARTIES INVOLVED. THE CREATOR AND OWNER OF THIS APPLICATION DOES NOT ASSUME ANY RESPONSIBILITY FOR POSSIBLE DAMAGES, LOSSES, PROBLEMS AND INCONVENIENCES THAT MAY BE CAUSED DIRECTLY OR INDIRECTLY BY THE APPLICATION. THE USER IS SOLELY RESPONSIBLE FOR THE USE OF THIS TOOL**.
