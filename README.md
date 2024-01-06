@@ -2,11 +2,11 @@
 
 ![img](https://github.com/p0p1t0/Spoofer/assets/148875004/5695d0b8-8e0d-4a60-a200-14842847d802)
 
-*It is not an email or SMS sender, it is an email and SMS spoofer.*
-
 Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
 [Download](https://p0p1t0.com/Spoofer.rar) (Lastest version 1.7)
+
+*It is not an email or SMS sender, it is an email and SMS spoofer.*
 
 ## What can Spoofer do? How does it work? 💣
 
