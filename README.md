@@ -1,4 +1,4 @@
-# ![aimimg](https://github.com/p0p1t0/Spoofer/assets/148875004/f3edb3ef-1daf-4351-8af4-1e2633326fa2) Spoofer (*email spoofer & SMS spoofer*)
+# ![aimimg](https://github.com/p0p1t0/Spoofer/assets/148875004/f3edb3ef-1daf-4351-8af4-1e2633326fa2) Spoofer (*Email spoofer & SMS spoofer*)
 
 ![img](https://github.com/p0p1t0/Spoofer/assets/148875004/5695d0b8-8e0d-4a60-a200-14842847d802)
 
