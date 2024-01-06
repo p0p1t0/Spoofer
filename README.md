@@ -2,7 +2,7 @@
 
 ![img](https://github.com/p0p1t0/Spoofer/assets/148875004/54934652-39a1-4a6d-9319-d4f069f945f6)
 
-*Spoofer is not an email or SMS sender, it is an offensive tool for penetration testing and social engineering.*
+*"Spoofer is not an email or SMS sender, it is an offensive tool for penetration testing and social engineering."*
 
 Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
