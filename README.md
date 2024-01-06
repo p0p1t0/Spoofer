@@ -10,7 +10,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
 ## What can Spoofer do? How does it work? 💣
 
-[Demo video](https://www.youtube.com/watch?v=vJpsnPvZOxE) 👈😎
+[Demo video](https://www.youtube.com/watch?v=vJpsnPvZOxE) 😎
 
  ## Buy a pincode 🔑
  
