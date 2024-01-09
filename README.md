@@ -2,15 +2,15 @@
 
 ![img](https://github.com/p0p1t0/Spoofer/assets/148875004/5695d0b8-8e0d-4a60-a200-14842847d802)
 
-Made in Python and PHP with a lot of love 🐍+🐘+❤️ = ✉️
+Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
-[Download](https://p0p1t0.com/Spoofer.rar) (Lastest version 1.7) *Only supports Windows*
++ [Download](https://p0p1t0.com/Spoofer.rar) for Windows (Lastest version 1.7)
 
 ## What can Spoofer do? How does it work? 💣
 
-[Demo video YouTube](https://www.youtube.com/watch?v=vJpsnPvZOxE)
+[Demo video YouTube](https://www.youtube.com/watch?v=vJpsnPvZOxE).
 
-[Demo video TikTok](https://www.tiktok.com/@p0p1t0tiktok/video/7321853981280570656?is_from_webapp=1&sender_device=pc&web_id=7321852548435412512)
+[Demo video TikTok](https://www.tiktok.com/@p0p1t0tiktok/video/7321853981280570656?is_from_webapp=1&sender_device=pc&web_id=7321852548435412512).
 
  ## Buy a pincode 🔑
  
