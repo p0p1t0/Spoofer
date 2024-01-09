@@ -2,7 +2,7 @@
 
 ![img](https://github.com/p0p1t0/Spoofer/assets/148875004/5695d0b8-8e0d-4a60-a200-14842847d802)
 
-This is not an email or SMS sender, this is an email and SMS spoofer.
+This is not an email/SMS sender, this is an email/SMS spoofer.
 
 Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
