@@ -8,15 +8,15 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
 ## What can Spoofer do? How does it work? 💣
 
-[Demo video YouTube](https://www.youtube.com/watch?v=vJpsnPvZOxE)
+[Demo video YouTube](https://www.youtube.com/watch?v=vJpsnPvZOxE).
 
-[Demo video TikTok](https://www.tiktok.com/@p0p1t0tiktok/video/7321853981280570656?is_from_webapp=1&sender_device=pc&web_id=7321852548435412512)
+[Demo video TikTok](https://www.tiktok.com/@p0p1t0tiktok/video/7321853981280570656?is_from_webapp=1&sender_device=pc&web_id=7321852548435412512).
 
  ## Buy a pincode 🔑
  
 Pincodes are codes that allow you to use the *Email spoofer* and *SMS spoofer* tools from the Spoofer application. For each email or SMS sent it will cost you €1 and the **minimum purchase of a pincode is €30**, which would be equivalent to 30 email/SMS sendings. With purchases equal to or greater than €200, the value of each send will cost €0.50, so if you buy a pincode for €200 you will have 400 email/SMS sendings.
 
-Currently accepted payment methods: **Bitcoin**
+Currently accepted payment methods: **Bitcoin**.
 
 Email: **contact@p0p1t0.com**
 
