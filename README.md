@@ -14,7 +14,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
  ## Buy a pincode 🔑
  
-Pincodes are codes that allow you to use the *Email spoofer* and *SMS spoofer* tools from the Spoofer application. For each email or SMS sent it will cost you €1 and the **minimum purchase of a pincode is €30**, which would be equivalent to 30 email/SMS sendings. With purchases equal to or greater than €200, the value of each send will cost €0.50, so if you buy a pincode for €200 you will have 400 email/SMS sendings.
+Pincodes are codes that allow you to use Spoofer's *Email* and *SMS* tools. Each email/SMS sending costs €1 and **the minimum purchase of a pincode is €30** so you will get 30 email/SMS sendings. With purchases equal to or greater than €200 the price of the pincodes will cost €0.50, so if you buy a pincode for €200 you will get 400 email/SMS sendings.
 
 Currently accepted payment methods: **Bitcoin**.
 
