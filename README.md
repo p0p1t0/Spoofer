@@ -1,6 +1,9 @@
-# ![aimimg](https://github.com/p0p1t0/Spoofer/assets/148875004/f3edb3ef-1daf-4351-8af4-1e2633326fa2) Spoofer - *Email & SMS*
+# ![aimimg](https://github.com/p0p1t0/Spoofer/assets/148875004/f3edb3ef-1daf-4351-8af4-1e2633326fa2) Spoofer
 
 ![img](https://github.com/p0p1t0/Spoofer/assets/148875004/5695d0b8-8e0d-4a60-a200-14842847d802)
+
+This is not an email or SMS sender, this is an email and SMS spoofer.
+
 
 Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
@@ -14,7 +17,7 @@ Made in Python and PHP with a lot of love. 🐍+🐘+❤️ = ✉️
 
  ## Buy a pincode 🔑
  
-Pincodes are codes that allow you to use *Email* and *SMS* tools from Spoofer application. Each email/SMS sending costs €1 and **the minimum purchase of a pincode is €30** so you will get 30 email/SMS sendings. With purchases equal to or greater than €200 the price of the pincodes will cost €0.50, so if you buy a pincode for €200 you will get 400 email/SMS sendings.
+Pincodes are codes that allow you to use *Email* and *SMS* tools from Spoofer application. Each email/SMS sending costs €1 and **the minimum purchase of a pincode is €30** so you will get 30 email/SMS sendings. With purchases equal to or greater than €200 the price of the sendings will cost €0.50, so if you buy a pincode for €200 you will get 400 email/SMS sendings.
 
 Currently accepted payment methods: **Bitcoin**.
 
